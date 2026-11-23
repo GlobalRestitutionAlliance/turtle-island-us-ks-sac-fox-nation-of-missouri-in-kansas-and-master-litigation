@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=KS+SAC+FOX+NATION+OF+MISSOURI+IN+KANSAS+AND",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=KS+SAC+FOX+NATION+OF+MISSOURI+IN+KANSAS+AND",
+  "title": "Federal Register - KS SAC FOX NATION OF MISSOURI IN KANSAS AND",
+  "fetched_at": "2026-11-23T18:06:29.382786Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 211932,
+  "sha256": "0b3959da641a77fd1380a29e25ff053abba15730a785bda8b039395697d84b43",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
